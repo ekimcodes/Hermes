@@ -15,10 +15,7 @@ A full-stack AI-powered utility dashboard that transforms how utility companies 
 ## 📸 Screenshots
 
 | **Live Risk Map** |
-|:---:|:---:|
-| ![Risk Map Dashboard]() |
-| *Real-time visualization of high-risk feeders* |
-
+[showcase](showcase.png)
 ---
 
 ## 🏗️ Architecture
@@ -129,4 +126,5 @@ PCD Grid project/
 ```
 
 ---
+
 
