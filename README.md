@@ -14,10 +14,10 @@ A full-stack AI-powered utility dashboard that transforms how utility companies 
 
 ## 📸 Screenshots
 
-| **Live Risk Map** | **Restoration Estimates** |
+| **Live Risk Map** |
 |:---:|:---:|
-| ![Risk Map Dashboard](https://placehold.co/600x400?text=Insert+Risk+Map+Screenshot) | ![ETR Panel](https://placehold.co/600x400?text=Insert+ETR+Screenshot) |
-| *Real-time visualization of high-risk feeders* | *Instant outage prediction & time-to-restore* |
+| ![Risk Map Dashboard]() |
+| *Real-time visualization of high-risk feeders* |
 
 ---
 
@@ -80,7 +80,7 @@ At the core is a **Random Forest Classifier** trained on physics-based ground tr
 
 ---
 
-## ⚡ Quick Start
+## Start
 
 ### Option A: Cloud Mode (Recommended)
 Run the full stack (Frontend, Backend, DB, Workers) with one command:
@@ -98,13 +98,12 @@ cd backend
 pip install -r requirements.txt
 python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8081
 ```
-*API Docs available at* `http://localhost:8081/docs`
 
 #### 2. Start the Frontend
 ```bash
 cd frontend
 npm install
-npm run dev
+npm run dev or cmd /c "npm run dev
 ```
 
 ---
@@ -131,6 +130,3 @@ PCD Grid project/
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
