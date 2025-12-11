@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 A full-stack AI-powered utility dashboard that transforms how utility companies respond to extreme weather events. By combining real-time weather data with physics-based machine learning models, this system predicts grid failures *before* they happen and optimizes crew dispatch.
 
@@ -127,6 +126,7 @@ PCD Grid project/
 ```
 
 ---
+
 
 
 
