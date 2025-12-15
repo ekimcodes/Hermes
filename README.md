@@ -100,7 +100,7 @@ python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8081
 ```bash
 cd frontend
 npm install
-npm run dev or cmd /c "npm run dev
+npm run dev or cmd /c "npm run dev'
 ```
 
 ---
@@ -126,6 +126,7 @@ PCD Grid project/
 ```
 
 ---
+
 
 
 
